@@ -1,4 +1,4 @@
-const apiKey = '59877548'; // Replace this with your actual API key
+const apiKey = '59877548'; 
 
 const searchButton = document.getElementById('searchButton');
 const movieTitleInput = document.getElementById('movieTitle');
